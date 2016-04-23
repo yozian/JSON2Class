@@ -1,3 +1,5 @@
+### [Download JSON2Class from chrome store](https://chrome.google.com/webstore/detail/json2class/eihoefojnhgfnhlcplgafjaikcbdfdco)
+
 ### Typing a model class?
 ### Save your time now!
 
